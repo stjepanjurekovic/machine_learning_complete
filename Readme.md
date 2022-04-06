@@ -266,6 +266,12 @@ Below is of the most awesome machine learning books.
 
 * **Neural Networks and Deep Learning**: This is also another great deep learning online book by Michael Nielsen. You can read the entire book [here](http://neuralnetworksanddeeplearning.com).
 
+* **Machine Learning Engineering in Action**: Field-tested tips, tricks, and design patterns for building machine learning projects that are deployable, maintainable, and secure from concept to production. Get an early access [here](https://www.manning.com/books/machine-learning-engineering-in-action).
+
+* **Data Science Bookcamp**: Learn data science with Python by building five real-world projects! Get it [here](https://www.manning.com/books/data-science-bookcamp).
+
+* **How to Lead in Data Science**: A field guide for the unique challenges of data science leadership, filled with transformative insights, personal experiences, and industry examples. Get it [here](https://www.manning.com/books/how-to-lead-in-data-science).
+
 If you are interested in more machine learning and deep learning resources, check [ML Starter Kit](https://ludwigstumpp.com/ml-starter-kit), [this](https://deep-learning-drizzle.github.io) and [this](https://github.com/dair-ai/ML-YouTube-Courses).
 
 
